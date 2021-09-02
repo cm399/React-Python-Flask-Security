@@ -134,12 +134,6 @@ You will see the backend on [http://127.0.0.1:5000/]
 
 ## Authors
 
-👤 **Erik(CEO)**
-
-- [GitHub](https://github.com/forgelabinc)
-- [LinkedIn](https://www.linkedin.com/in/erik-bogaard-48049338/)
-- [Website(Forge Lab)](https://theforgelab.com/)
-
 👤 **Fazeel(Full-Stack Software Engineer)**
 
 - [GitHub](https://github.com/toptalent399)
