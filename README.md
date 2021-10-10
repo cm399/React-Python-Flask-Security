@@ -1,4 +1,4 @@
-# Fazeel-digivax-ent(React & Flask)
+# digivax-ent(React & Flask)
 
 > One paragraph statement about the project.
 > 
